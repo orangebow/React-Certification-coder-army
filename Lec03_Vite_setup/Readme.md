@@ -1,4 +1,4 @@
-```markdown
+
 # Modern React 19 + Vite: From First Principles 🚀
 
 Welcome to the ultimate guide to understanding the modern React development ecosystem. Instead of just copying and pasting commands, this guide adopts a **first-principles approach** to explain *why* our tools exist, *how* they interact, and *what* goes on behind the scenes from development to production.
@@ -57,7 +57,7 @@ cd my-react-app
 npm install
 npm run dev
 
-```
+
 
 #### 🛠️ Option B: The Manual Way (First Principles)
 
