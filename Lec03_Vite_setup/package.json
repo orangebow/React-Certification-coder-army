@@ -1,0 +1,16 @@
+{
+  "name": "project_name",
+  "version": "1.0.0",
+  "description": "```markdown\r # Modern React 19 + Vite: From First Principles 🚀",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  }
+}
