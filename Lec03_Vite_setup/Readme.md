@@ -267,6 +267,4 @@ ESLint analyzes your code statically to catch errors before execution. In Vite, 
 * **Development (`npm run dev`):** Focuses on speed. Vite serves source code over native ESM, transforming individual files on the fly via `esbuild`. Assets are un-minified to ensure logs map back to readable lines of code.
 * **Production (`npm run build`):** Focuses on performance for your end-users. Rollup processes your application, minifies the code to reduce payload sizes, drops development features (like StrictMode double-rendering), splits code into logical chunks, and generates a static `/dist` folder ready to deploy directly to servers.
 
-```
 
-```
