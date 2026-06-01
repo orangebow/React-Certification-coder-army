@@ -4,6 +4,7 @@ App.jsx only render the count variable every time.
 
 But, raw implementation of [index.html + index.js] would render each component(h1,p,incre,decre) everytime. every time this element would be created and destroyed and recreated on each successful render.
 
+
 2. Real DOM AND VIRTUAL DOM:
 React element form virtual dom, whereas raw implememtation of html forms real dom;
 For example:
@@ -22,3 +23,5 @@ So, VDOM are light copy of DOM that focus on few attributes rather than focusing
 Comparing new virtual dom with old one to look for any changes has taken place.
 Further, explanation:
 Diagram in image folder:  ![React Diffing Algorithm](Images/diffing%20algorithm.png)
+
+5. 
